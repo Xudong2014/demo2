@@ -1,0 +1,27 @@
+#title{
+    display: flex;
+    justify-content: center;
+}
+
+.contactus-word{
+    /* display: flex;
+    padding:0 100px; */
+    position:relative;
+    left:100px;
+}
+
+.contactus-word p{
+    line-height: 30px;
+
+}
+
+.contactus-word2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+
+.contactus-word2 p{
+    width: 400px;
+}

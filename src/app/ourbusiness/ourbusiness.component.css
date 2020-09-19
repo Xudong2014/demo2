@@ -1,0 +1,20 @@
+.ourbusiness-logo1{
+    display: flex;
+    justify-content: center;
+}
+
+.content1{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 50px;
+    border: 1px solid #ccc;
+}
+
+.logo1{
+    width: 200px;
+    padding-right: 50px;
+}
+
+.content1 p{
+    line-height: 30px;
+}

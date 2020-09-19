@@ -1,0 +1,50 @@
+#title{
+    justify-content: center;
+    display: flex;
+}
+
+#ourprocess-img{
+    width: 300px;
+    padding-right: 50px;
+}
+
+.ourprocess-content{
+    display:flex;
+    justify-content: space-between;
+    padding: 0 150px;
+}
+
+.ourprocess-word{
+    display: flex;
+
+}
+
+.ourprocess-word p{
+    line-height: 20px;
+}
+
+.content1{
+    flex-wrap: wrap;
+    display:flex;
+    justify-content: space-evenly;
+}
+
+#logo1{
+    width: 200px;
+}
+
+.content{
+    flex-wrap: wrap;
+    display:flex;
+    justify-content: space-evenly;
+}
+
+/* .content2{
+    flex-wrap: wrap;
+    display:flex;
+    width: 200px;
+} */
+
+.total-content{
+    margin: 0 auto;
+}

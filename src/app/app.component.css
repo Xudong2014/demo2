@@ -1,0 +1,26 @@
+.logo{
+    position:relative;
+    left:50px;
+    line-height: 1px;
+}
+#logo-image{
+    width:150px;
+    height:auto;
+}
+.nav{
+    display:flex;
+    list-style-type:none;
+    justify-content:center;
+}
+.nav li{
+    padding:0 30px;
+}
+h1{
+    margin:0;
+}
+/* .home-image{
+    background-image:url("../assets/img/pic1.jpeg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    min-height:800px;
+} */

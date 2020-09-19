@@ -1,0 +1,26 @@
+#title{
+    justify-content: center;
+    display: flex;
+}
+
+.content{
+    justify-content: center;
+    display: flex;
+    padding: 0 10%;
+}
+
+.content p{
+    line-height: 30px;
+}
+
+#logo{
+    width:500px;
+    padding-right: 50px;
+}
+
+.content1{
+    display:flex;
+    padding: 0 10%;
+    flex-wrap: wrap;
+
+}

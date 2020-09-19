@@ -1,0 +1,33 @@
+#aboutus-image{
+    width: 400px;
+    padding-right: 50px;
+}
+.aboutus{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10%;
+}
+.aboutus-word p{
+    line-height: 26px;
+}
+
+.aboutus-image2{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.aboutus-image2 img{
+    width: 400px;
+}
+
+#aboutus-image3{
+    width: 400px;
+    padding-left: 50px;
+}
+
+.aboutus-content{
+    display:flex;
+    justify-content: space-between;
+    padding: 10%;
+}
